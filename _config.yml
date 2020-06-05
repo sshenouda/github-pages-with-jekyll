@@ -2,7 +2,7 @@ title: Sarah Shenouda
 author: Sarah Shenouda
 email: sshenouda@ebnet.org
 theme: minima
-description: > My personal website # this means to ignore newlines until "baseurl:"
+description: ># this means to ignore newlines until "baseurl:" My personal website
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
