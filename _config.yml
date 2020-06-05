@@ -3,7 +3,6 @@ author: Sarah Shenouda
 email: sshenouda@ebnet.org
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Mr. Cohen is the best!
 
 # social links
 instagram_username: sarah_shenouda # DO NOT include the @ character, or else the build will fail!
